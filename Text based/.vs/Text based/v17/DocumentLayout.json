@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\user\\downloads\\text-based-adeventure-game\\text based\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\user\\downloads\\text-based-adeventure-game\\text based\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\user\\downloads\\text-based-adeventure-game\\text based\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:14:13.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
               "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:58:43.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:24:16.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:24:16.784Z"
             }
           ]
         }
