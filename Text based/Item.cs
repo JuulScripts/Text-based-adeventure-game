@@ -9,6 +9,7 @@ namespace Text_based
 {
     internal class Item
     {
+<<<<<<< HEAD
         string Name { get; set; }
         int Value { get; set; }
         bool IsDangerous {  get; set; }
@@ -25,5 +26,8 @@ namespace Text_based
         {
 
         }
+=======
+ 
+>>>>>>> Player
     }
 }
