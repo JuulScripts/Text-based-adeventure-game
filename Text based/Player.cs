@@ -10,8 +10,8 @@ namespace Text_based
     internal class Player
     {
         public static List<Item> Inventory = new List<Item>();
-        public string Name { get; }
-        private int ending { get; set; }
+        public static string Name;
+        private static int ending { get; set; }
         public Player(string name)
         {
             Name = name;

@@ -24,7 +24,7 @@ namespace Text_based
 
         public static void AddItemToInventory(Item item)
         {
-
+            Player.Inventory.Add(item);
         }
 
     }

@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\bin\Debug\Text based.exe.config
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\bin\Debug\Text based.exe
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\bin\Debug\Text based.pdb
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\obj\Debug\Text based.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\obj\Debug\Text based.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\obj\Debug\Text based.exe
+C:\Users\User\Downloads\Text-based-adeventure-game\Text based\obj\Debug\Text based.pdb
