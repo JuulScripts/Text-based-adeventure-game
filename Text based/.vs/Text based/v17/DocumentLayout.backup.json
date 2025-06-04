@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\",
+  "WorkspaceRootPath": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\playerchoises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:playerchoises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\itemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:itemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\user\\downloads\\text-based-adeventure-game\\text based\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|c:\\users\\julia\\documents\\github\\text-based-adeventure-game\\text based\\generatenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9049EC-C62A-4C21-B973-13A1D53A44BF}|Text based.csproj|solutionrelative:generatenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T08:24:16.784Z",
               "IsPinned": true,
@@ -44,39 +64,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsoleHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\ConsoleHelper.cs",
-              "RelativeDocumentMoniker": "ConsoleHelper.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\ConsoleHelper.cs",
-              "RelativeToolTip": "ConsoleHelper.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowBEAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\NPC.cs",
+              "RelativeDocumentMoniker": "NPC.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\NPC.cs",
+              "RelativeToolTip": "NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:49:14.361Z",
+              "WhenOpened": "2025-06-04T11:50:53.126Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:15:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerChoises.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\PlayerChoises.cs",
+              "RelativeDocumentMoniker": "PlayerChoises.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\PlayerChoises.cs",
+              "RelativeToolTip": "PlayerChoises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:24:24.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerateNPC.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\GenerateNPC.cs",
+              "RelativeDocumentMoniker": "GenerateNPC.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\GenerateNPC.cs",
+              "RelativeToolTip": "GenerateNPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:52:42.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Player.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:35:15.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ItemGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\ItemGenerator.cs",
+              "RelativeDocumentMoniker": "ItemGenerator.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\ItemGenerator.cs",
+              "RelativeToolTip": "ItemGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:17:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\ConsoleHelper.cs",
+              "RelativeToolTip": "ConsoleHelper.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:49:14.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\Text-based-adeventure-game\\Text based\\Item.cs",
+              "ToolTip": "C:\\Users\\julia\\Documents\\GitHub\\Text-based-adeventure-game\\Text based\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:58:43.865Z",
               "EditorCaption": ""

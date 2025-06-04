@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using Text_based;
 
 public static class ConsoleHelper
 {
@@ -14,12 +15,29 @@ public static class ConsoleHelper
     {
         foreach (char c in text)
         {
-            Console.Write(c);
-            Thread.Sleep(typingDelay);
+            if (!Player.finishedgame)
+            {
+                Console.Write(c);
+                Thread.Sleep(typingDelay);
+            } else { Console.WriteLine();
+
+                return;
+            }
+
         }
         Console.WriteLine();
     }
+    public static void typeoverwritetext(string text)
+    {
 
+        Console.WriteLine();
+        foreach (char c in text)
+        {
+            Console.Write(c);
+            Thread.Sleep(typingDelay);
+        }
+     
+    }
     public static string readtext(string text)
     {
         typetext(text);
@@ -73,7 +91,7 @@ public static void startscreen()
     ", true);
 
         wait(1.2);
-        Console.WriteLine(); // blank line for spacing
+        Console.WriteLine(); 
 
         typetext("You wake to the sound of metal creaking... and nothing else.");
         wait(0.8);
@@ -90,11 +108,10 @@ public static void startscreen()
         typetext("Locate Core Key. Memory Chip. Stabilizer Cell.\"");
         wait(1.2);
         typetext("\"Failure to comply will result in permanent containment.\"");
-        wait(1.5);
-
+     
         Console.WriteLine();
-        typetext("Type anything to begin...");
-       
+        typetext("You get dragged to a random room......... you hear a voice you recognize it is that the core holder?");
+        wait(1);
         Console.Clear();
     }
 
