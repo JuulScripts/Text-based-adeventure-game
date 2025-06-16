@@ -25,6 +25,7 @@ namespace Text_based
         
 
         }
+        
         public static void End()
         {
             Console.WriteLine("\n─────────────────────────────");
@@ -70,5 +71,8 @@ namespace Text_based
             }
         
         }
+       
     }
+
+    
 }

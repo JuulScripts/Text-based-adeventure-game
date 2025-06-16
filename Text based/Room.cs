@@ -47,6 +47,4 @@ namespace Text_based
         }
 
     }
-
-     
 }

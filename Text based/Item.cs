@@ -25,8 +25,16 @@ namespace Text_based
             ConsoleHelper.typetext($"YOU FOUND: {item.Name}");
             if (item.ending)
             {
-                if (Player.ending <= 3)
+                if (Player.ending < 2)
+                {
                     Player.ending++;
+                } else
+                {
+                    Player.ending++;
+                    Player.finishedgame = true;
+                    Player.End();
+                }
+                   
                
             } else if (item.IsDangerous) {
                 ConsoleHelper.typetext(

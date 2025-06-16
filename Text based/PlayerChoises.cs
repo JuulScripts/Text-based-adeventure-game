@@ -43,9 +43,9 @@ namespace Text_based
 
                         case 3:
                             room.npc.Speak();
-                            ConsoleHelper.wait(4);
+                            ConsoleHelper.wait(6);
                             MakeBaseChoise(room);
-
+                        
                             break;
 
                         case 4:
@@ -56,7 +56,7 @@ namespace Text_based
                             break;
                         default:
                             ConsoleHelper.typetext("Invalid choice.");
-
+                            MakeBaseChoise(room);
                             break;
                     }
                 }
